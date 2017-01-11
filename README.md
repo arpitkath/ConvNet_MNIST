@@ -1,7 +1,7 @@
 # ConvNet_MNIST
 
 A TensorFlow model of Convolutional neural network for digit recognition using MNIST data set. </br>
-Accuracy = 97.36% on test set with 1000 epoch on mini batch of 50 using AdamOptimiser. </br>
+Accuracy = 97.36% on test set with 1000 epoch on mini batch of 50 using AdamOptimizer. </br>
 
 Structure of Network </br>
 1. Input data </br>
